@@ -1,0 +1,67 @@
+{
+  "info": {
+    "_postman_id": "0d062d4b-5415-40dc-8915-aa9d34dc848f",
+    "name": "Consulta de CEP na API ViaCEP",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "53147732",
+    "_collection_link": "https://go.postman.co/collection/53147732-0d062d4b-5415-40dc-8915-aa9d34dc848f?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Consulta de CEP válido",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Consulta de CEP válido com hífen",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Consulta de CEP inexistente",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Consulta de CEP com formato inválido de 9 dígitos",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Consulta de CEP com letras no formato",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Consulta de CEP com espaço no formato",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Consulta de CEP com formato inválido de 7 dígitos",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
